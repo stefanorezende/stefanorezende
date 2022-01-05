@@ -4,20 +4,20 @@
 - 🔭 I’m currently working as Radio Frequecy Engineer at SKY Brasil.
 - 🌱 I’m currently learning Python, R and JavaScript
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a LEGO amateur builder and 
+- ⚡ Fun fact: I'm a LEGO builder, amateur drawer and RPG Dungeon Master.
 
-##- 📫 How to reach me:
+- 📫 How to reach me:
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto: stefanovilela@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto: stefanovilela@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/st%C3%A9fano-albino-vilela-rezende-31a53836/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/st%C3%A9fano-albino-vilela-rezende-31a53836/" /></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/stefano.vilela" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/stefano.vilela"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/stefanorezende/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/stefanorezende/"/></a>
 </p>  
 
