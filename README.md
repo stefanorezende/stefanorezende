@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm a LEGO builder, amateur drawer and RPG Dungeon Master.
 
 - 📫 How to reach me:
-<p align="left">
+<p align="center">
   <a href="mailto: stefanovilela@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto: stefanovilela@gmail.com" /></a>
 
