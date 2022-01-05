@@ -21,9 +21,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/stefanorezende/"/></a>
 </p>  
 
-<p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanorezende&theme=tokyonight)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanorezende&theme=onedark&langs_count=8)
+
 
 
 <!--
