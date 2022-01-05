@@ -2,12 +2,12 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=stefanorezende.stefanorezende ) [![Github](https://img.shields.io/github/followers/stefanorezende?label=Follow&style=social)](https://github.com/stefanorezende)
 
 - 🔭 I’m currently working as Radio Frequecy Engineer at SKY Brasil.
-- 🌱 I’m currently learning Python, R and JavaScript
+- 🌱 I’m currently learning Python, R, JavaScript and anything else.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a LEGO builder, amateur drawer and RPG Dungeon Master.
 
 - 📫 How to reach me:
-<p align="center">
+<p align="left">
   <a href="mailto: stefanovilela@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto: stefanovilela@gmail.com" /></a>
 
@@ -21,8 +21,9 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/stefanorezende/"/></a>
 </p>  
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanorezende&theme=tokyonight)
-
+</p>
 
 
 <!--
