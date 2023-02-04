@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Radio Frequecy Engineer at SKY Brasil.
 - 🌱 I’m currently learning Python, R, JavaScript and anything else.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a LEGO builder, amateur drawer and RPG Dungeon Master.
+- ⚡ Fun fact: I'm a LEGO builder, amateur illustrator and RPG Dungeon Master.
 
 - 📫 How to reach me:
 <p align="left">
