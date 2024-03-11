@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm **Stéfano Rezende**
 ![](https://visitor-badge.laobi.icu/badge?page_id=stefanorezende.stefanorezende ) [![Github](https://img.shields.io/github/followers/stefanorezende?label=Follow&style=social)](https://github.com/stefanorezende)
 
-- 🔭 I’m currently working as Radio Frequecy Engineer at SKY Brasil.
+- 🔭 I’m currently working as Radio Frequecy Engineer at Hughes do Brasil.
 - 🌱 I’m currently learning Python, R, JavaScript and anything else.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a LEGO builder, amateur illustrator and RPG Dungeon Master.
+- ⚡ Fun fact: I'm a RPG DM, miniature painter, LEGO builder and amateur illustrator.
 
 - 📫 How to reach me:
 <p align="left">
